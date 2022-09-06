@@ -1,0 +1,16 @@
+aniso8601==7.0.0
+asgiref @ file:///opt/conda/conda-bld/asgiref_1661287532135/work
+certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
+Django==4.1.1
+django-cors-headers==3.13.0
+graphene @ file:///home/conda/feedstock_root/build_artifacts/graphene_1626553128581/work
+graphene-django @ file:///home/conda/feedstock_root/build_artifacts/graphene-django_1610151717099/work
+graphql-core==2.3.2
+graphql-relay==2.0.1
+promise @ file:///home/builder/ci_310/promise_1640792568485/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+Rx==1.6.1
+singledispatch @ file:///tmp/build/80754af9/singledispatch_1629321204894/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sqlparse==0.4.2
+text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
